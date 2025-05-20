@@ -1,0 +1,3 @@
+- logisim
+- Multisim(主力)
+- 嘉立创EDA
